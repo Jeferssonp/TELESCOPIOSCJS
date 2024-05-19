@@ -1,0 +1,38 @@
+/*
+Zerotheme.com | Free Html5 Responsive Templates
+Author URI: https://www.zerotheme.com/
+*/
+
+html { -webkit-text-size-adjust: none;}
+.video embed,.video object,.video iframe { width: 100%;  height: auto;}
+img{max-width:100%;	height: auto;width: auto\9; /* ie8 */}
+
+
+
+
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	.box-5 .post img{height: 500px;}
+}
+
+@media only screen and (max-width: 767px) {
+	.menu {float: none;}
+	.menu a {border-bottom: 1px solid #1111111;}
+    .toggleMenu.active {display: block;}
+    .menu > li {float: none;}
+    .menu ul {display: block; width: 100%;}
+
+    .top-header{padding: 0 10px;}
+	header {margin-top: 0px;height: auto;}
+	.container {display: block;}/*Fix Menu*/
+	
+	.content-box.box-2 {text-align: center;}
+	.content-box.box-6 .contact{padding:30px;}
+	.content-box.box-1  .tablet-device  { padding:30px;}
+	.content-box.box-7 .title  {text-align: center;}
+	.content-box.box-7 .subcribe-form{text-align: center;}
+}
+
