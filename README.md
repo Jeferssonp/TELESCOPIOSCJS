@@ -26,12 +26,7 @@ Una vez que el telescopio está montado, sigue estos pasos para comenzar a obser
 2. Ajusta los controles de la montura para seguir el movimiento del objeto a medida que se desplaza por el cielo.
 3. Utiliza los oculares proporcionados para obtener diferentes aumentos y detalles de la observación.
 
-## Contribución
-¡Agradecemos las contribuciones de otros entusiastas de la astronomía para mejorar este proyecto! Si deseas contribuir, sigue estos pasos:
 
-1. Realiza un fork del repositorio.
-2. Realiza tus cambios en una nueva rama.
-3. Envía un pull request con tus mejoras.
 
 
   
