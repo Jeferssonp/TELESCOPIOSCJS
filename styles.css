@@ -1,0 +1,90 @@
+
+/* fuente importada de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Hind+Siliguri:wght@300;400;500;600;700&family=Inder&family=Nobile:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&family=Sintony:wght@400;700&display=swap');
+
+/* Se reinician los espacios que se agregan por defecto, quedan en 0 */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* todo texto tendrá la fuente Montserrat, botones, entradas de texto, body, etc. */
+body, button, input {
+    font-family: "Sintony", sans-serif;
+}
+
+h1{
+    background-color: #d0f9fa;
+    padding: 10px;
+    
+}
+/* La clase container estará centrada, que es el contenedor "padre" de todo el formulario */
+.container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.crud_title {
+    text-align: center;
+    color: rgb(100, 100, 114);
+}
+
+.crud_form{
+    display: flex;
+    margin: 10px 0;   
+}
+
+/* Tamaño de fuente de las entradas a 1rem unidad relativa, equivale al tamaño por defecto del navegador, 2rem = 18px * 2  */
+.form_input {
+    flex: 1;
+    padding: 5px;
+    margin-right: 10px;
+    font-size: 1rem;
+}
+
+/* Estilos al botón "padre" o en general  */
+.button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+/* efecto al pasar el mouse sobre el botón, crece 1.2  */
+.button:hover{
+    transform: scale(1.2);
+}
+
+/* Estilos especificos a "botón "primary" pero conserva propiedades del botón general "padre" */
+.button--primary {
+    background-color: aquamarine;
+}
+
+/* Estilos especificos a "botón "secundary" que se crean automaticamente en la celda "acciones"*/
+.button--secundary {
+    background-color: #ffc107;
+}
+
+
+/* Estilos a la tabla del Crud */
+.crudtable{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table_header, .table_body td {
+    border: 1px solid #cccccc;
+    padding: 5px;
+}
+
+.table_header {
+    background-color: #d0f9fa;
+}
+
+/* Estilos para el tercer elemento de la tablebody lo que serán los botones de la celda "acciones" */
+.table_body td:nth-child(4){
+    text-align: center;
+}
