@@ -41,7 +41,7 @@ Una vez que el telescopio está montado, sigue estos pasos para comenzar a obser
 3. Utiliza los oculares proporcionados para obtener diferentes aumentos y detalles de la observación.
 
 ## Pagina
-images/telescopio.png
+ (images/telescopio.png)
 ## Contacto
 Para más información sobre nuestros productos y servicios, puedes contactarnos a través de:
 - **Correo electrónico**: contact@telescopioscjs.com
