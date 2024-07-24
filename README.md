@@ -40,15 +40,8 @@ Una vez que el telescopio está montado, sigue estos pasos para comenzar a obser
 2. Ajusta los controles de la montura para seguir el movimiento del objeto a medida que se desplaza por el cielo.
 3. Utiliza los oculares proporcionados para obtener diferentes aumentos y detalles de la observación.
 
-## Galería
-Aquí puedes encontrar algunas imágenes de nuestros telescopios en acción:
-
-![Telescopio en acción 1](images/telescopio1.jpg)
-*Descripción de la imagen 1*
-
-![Telescopio en acción 2](images/telescopio2.jpg)
-*Descripción de la imagen 2*
-
+## Pagina
+images/telescopio.png
 ## Contacto
 Para más información sobre nuestros productos y servicios, puedes contactarnos a través de:
 - **Correo electrónico**: contact@telescopioscjs.com
